@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="cc776288-2a11-44db-b145-f7cfd05d1039" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/arithmetic.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/individual.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/numbers.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="6ee9e762-07a4-4181-b5e2-a7f892f01d5d" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +26,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="24OQxBuPPv4AqRYfzQW1MgPYAyF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="24Ntr69jJ9PY0HqoXRKZ7KFbGHG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,10 +50,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$/arithmetic.py" />
   </component>
   <component name="RunManager">
     <configuration name="numbers" type="PythonConfigurationType" factoryName="Python">
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/individual.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="individual" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+>>>>>>> Stashed changes
       <module name="pyproj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +73,11 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< Updated upstream
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arithmetic.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/individual.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,11 +90,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="cc776288-2a11-44db-b145-f7cfd05d1039" name="Changes" comment="" />
       <created>1643499399057</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643499399057</updated>
+=======
+      <changelist id="6ee9e762-07a4-4181-b5e2-a7f892f01d5d" name="Changes" comment="" />
+      <created>1643483067567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643483067567</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
